@@ -340,6 +340,6 @@ create_scatter_regr() #Q1, regression
 misclassification() #Q3) misclassification
 build_classif() #decision regions for the classfier and training points
 variation_k() #different k values
-find_see
+
 
 vary_depth()
